@@ -1,7 +1,7 @@
-/** @type {import('ts-jest').JestConfigWithTsJest} **/
 module.exports = {
-  testEnvironment: "node",
-  transform: {
-    "^.+.tsx?$": ["ts-jest",{}],
-  },
-};
+    preset: 'ts-jest',
+    testEnvironment: 'node',
+    collectCoverage: true,
+    coverageDirectory: 'coverage',
+    coverageReporters: ['lcov', 'text'], // Relatórios padrão: LCOV e texto
+  };

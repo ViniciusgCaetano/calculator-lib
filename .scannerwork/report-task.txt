@@ -1,0 +1,7 @@
+organization=viniciusgcaetano
+projectKey=calculator-lib
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.58982
+dashboardUrl=https://sonarcloud.io/dashboard?id=calculator-lib
+ceTaskId=AZSY4JYT0VWuF0Iyup46
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZSY4JYT0VWuF0Iyup46
